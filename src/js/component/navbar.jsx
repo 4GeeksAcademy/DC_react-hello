@@ -12,13 +12,13 @@ const Navbar = () => {
                         <a className="nav-link active text-light" aria-current="page" href="#">Home</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link disabled" href="#">About</a>
+                        <a className="nav-link text-muted" href="#">About</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link disabled" href="#">Services</a>
+                        <a className="nav-link text-muted" href="#">Services</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link disabled">Contact</a>
+                        <a className="nav-link text-muted" href="#">Contact</a>
                     </li>
                 </ul>
             
